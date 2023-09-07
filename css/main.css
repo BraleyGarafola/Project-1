@@ -11,7 +11,7 @@ h1{
     font-size: 90px;
     text-align: center;
     line-height: 100%;
-    color: rgb(237, 167, 225);
+    color: rgb(242, 194, 214);
 } 
 
 p{
@@ -28,7 +28,7 @@ h2{
     font-size: 50px;
     line-height: 40px;
     margin-left: 20px;
-    color: rgb(237, 167, 225)
+    color: rgb(242, 194, 214)
 } 
 
 p2{
@@ -43,7 +43,7 @@ h3{
     font-size: 70px;
     text-align: center;
     line-height: 100px;
-    color: rgb(237, 167, 225);
+    color: rgb(242, 194, 214);
 } 
 
 li{
@@ -73,7 +73,7 @@ h4{
     font-size: 70px;
     text-align: center;
     line-height: 100px;
-    color: rgb(237, 167, 225);
+    color: rgb(242, 194, 214);
 } 
 
   p4{
@@ -90,7 +90,7 @@ h4{
 } 
 
 a:link{
-    color: rgb(237, 167, 225)
+    color: rgb(242, 194, 214)
 }
 
 a:hover{
